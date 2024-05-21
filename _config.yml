@@ -12,7 +12,7 @@ title                    : "Data Lab"
 title_separator          : "-"
 name                     : &name "Jonathan Miguel"
 description              : &description "personal description"
-url                      : https://jonathanmiguel/datalab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jonathanmiguel.github.io/datalab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
