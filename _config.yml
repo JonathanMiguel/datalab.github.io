@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Data Lab"
+title                    : "John's DataLab Homepage"
 title_separator          : "-"
 name                     : &name "Jonathan Miguel"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "JonathanMiguel/datalab.github.io"
 author:
   # Biographic information
   avatar           : "yoa.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Jonathan Miguel"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Passion for deep learning and machine learning"
+  location         : "Mexico"
+  employer         : "Consubanco"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "johnmiguel1994@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
